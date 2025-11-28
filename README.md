@@ -1,7 +1,7 @@
 # AlexandraYakovleva
 <div align="center">
   
-  <img src="https://i.pinimg.com/originals/b2/80/5e/b2805e7144415448c9735d564ce89078.gif" width="100%" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(255, 182, 193, 0.5);" />
+  <img src="8edd25eaef846269172c3c8ed5cb1e08.gif" width="50%" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(255, 182, 193, 0.5);" />
   <br/>
   <h1 style="color: #ffb6c1;"> Hi there! I'm <span style="color: #ff69b4;">Alexandra</span> 🌸 </h1>
 
