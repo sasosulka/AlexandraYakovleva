@@ -10,7 +10,7 @@
   <p style="font-size: 16px;">
     🔭 I’m currently working on <b>My Portfolio</b><br/>
     🌱 I’m currently learning <b>React & Node.js</b><br/>
-    🎀 I love <b>Pastel Colors, Cats & Coding</b><br/>
+    🎀 I love <b>Knitting, Dogs & Coding</b><br/>
     💌 Ask me about <b>Frontend Development</b>
   </p>
   <h2 style="color: #ffb6c1;">💌 Connect with me</h2>
