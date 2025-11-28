@@ -1,7 +1,7 @@
 # AlexandraYakovleva
 <div align="center">
   
-  <img src="a4e5f4ece45595908cf3cc137cbc2ae9.gif" width="80%" height="300px" style="object-fit: cover; border-radius: 10px; box-shadow: 0px 5px 15px rgba(255, 182, 193, 0.5);" />
+  <img src="a02d33852b4b83f8ed75a4ebb1395860.jpg" width="80%" height="300px" style="object-fit: cover; border-radius: 10px; box-shadow: 0px 5px 15px rgba(255, 182, 193, 0.5);" />
   <br/>
   <h1 style="color: #ffb6c1;"> Hi there! I'm <span style="color: #ff69b4;">Alexandra</span> 🌸 </h1>
 
@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=22&pause=1000&color=F48FB1&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Junior+Frontend+Developer" alt="Typing SVG" />
   </a>  <br/>
 
-  <img src="0a766f6015ea33b18f312856ac59c6e0.gif" width="80%" height="250px" style="object-fit: cover">
+  <img src="bf97c16704567d42c616d2fd6a376072.jpg" width="80%" height="250px" style="object-fit: cover">
 
   <br/>
 
