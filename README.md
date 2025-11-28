@@ -1,17 +1,17 @@
 # AlexandraYakovleva
 <div align="center">
   
-  <img src="8edd25eaef846269172c3c8ed5cb1e08.gif" width="50%" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(255, 182, 193, 0.5);" />
+  <img src="a4e5f4ece45595908cf3cc137cbc2ae9.gif" width="80%" height="300px" style="object-fit: cover; border-radius: 10px; box-shadow: 0px 5px 15px rgba(255, 182, 193, 0.5);" />
   <br/>
   <h1 style="color: #ffb6c1;"> Hi there! I'm <span style="color: #ff69b4;">Alexandra</span> 🌸 </h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=22&pause=1000&color=F48FB1&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Junior+Frontend+Developer" alt="Typing SVG" />
-  </a>
+  </a>  <br/>
 
-  <img src="https://i.pinimg.com/originals/a5/2e/3e/a52e3ead568213f67759dc9a6503c530.gif" width="100%">
+  <img src="0a766f6015ea33b18f312856ac59c6e0.gif" width="80%" height="250px" style="object-fit: cover">
 
-  <br/><br/>
+  <br/>
 
   <h3 style="color: #ffb6c1;">☁️ Tech Stack</h3>
   
@@ -28,10 +28,6 @@
   
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sasosulka&show_icons=true&locale=en&bg_color=45,ffeef2,ffc0cb&title_color=ff69b4&text_color=5c5c5c&icon_color=ff69b4&hide_border=true" height="150" alt="stats" />
-    
   </p>
-
   <br/>
-  <img src="https://media.giphy.com/media/Wn0s6c0V77wA45iQo4/giphy.gif" width="80px">
-  
 </div>
